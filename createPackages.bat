@@ -1,0 +1,1 @@
+dotnet pack "F:\Developpement\Techeasy.WebApi.Client" --configuration Release --output "F:\Developpement\packages"
