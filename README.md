@@ -1,7 +1,6 @@
 # Techeasy.WebApi.Client
-
 A lightweight WebApi Client
-
+Target Platform : .Net Standard 1.3
 Libraries :
 * [Json.NET](https://www.newtonsoft.com/json)
 
