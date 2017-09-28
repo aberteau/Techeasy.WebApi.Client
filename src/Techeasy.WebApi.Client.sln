@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techeasy.WebApi.Client", "Techeasy.WebApi.Client\Techeasy.WebApi.Client.csproj", "{17658030-557D-4A5F-8331-5AF7D3997B19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Techeasy.WebApi.Client", "Techeasy.WebApi.Client\Techeasy.WebApi.Client.csproj", "{17658030-557D-4A5F-8331-5AF7D3997B19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{00090872-0710-405B-BB69-AD5F4F2F4A4A}"
+	ProjectSection(SolutionItems) = preProject
+		createPackages.bat = createPackages.bat
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
